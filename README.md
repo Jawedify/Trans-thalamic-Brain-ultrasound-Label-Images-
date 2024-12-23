@@ -1,2 +1,3 @@
-# Trans-thalamic-Brain-ultrasound-Label-Images-
-This dataset contains labeled Trans-thalamic brain ultrasound images for use in medical imaging and machine learning applications. Download and use them for research and model training purposes.
+This dataset contains labeled images of Trans-thalamic brain ultrasounds. These images have been carefully curated and annotated for research and development purposes. The dataset is designed for use in medical imaging applications, including machine learning, image processing, and neural network training. Researchers and developers can use these images to train models for detecting brain structures and analyzing fetal brain development.
+
+You are welcome to download and utilize this dataset for your projects, ensuring proper attribution to the source. All images are provided in standard formats and are ready for use in various computational models.
